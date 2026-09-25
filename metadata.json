@@ -1,0 +1,6 @@
+{
+  "name": "Kinesis - Interactive Kinetic Typing Tutor",
+  "description": "Tactile typing tutor featuring physics-inspired finger motion guidance, physical key depression mechanics, and real-time rhythm visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
